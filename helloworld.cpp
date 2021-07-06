@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-	string name = "choi in hyuk"
+	string name = "lee hye won"
 	cout << name << endl;
 
 	return 0;
